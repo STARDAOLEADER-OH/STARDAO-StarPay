@@ -95,10 +95,9 @@ Future developers can create plugins under Star DAO rules.
 
 ## 📁 Files Reference
 
-- `README.md`: Project overview
-- `XCB_Funding_Proposal.md`: Investment and budget
-- `project_diagram.png`: Visual architecture
-- `CORE_MECHANISM.md`: (this file) operational logic
+- `README.md: Project overview
+- `XCB_Funding_Proposal.md: Investment and budget
+- `project_diagram.png: Visual architecture
 
 ---
 
