@@ -86,10 +86,14 @@ All governance structures, funding logic, and participation rewards in this proj
 - All rewards (whether in dividends or points) are subject to a **decay mechanism**, meaning they diminish over time to ensure fairness for future contributors.
 - Smart contracts manage all fund flows and point distributions with **full transparency and no manual interference**.
 - Sub-projects retain the freedom to design **modular internal structures**, such as task systems, evaluation boards, or technical teams—provided they do not conflict with the core STARDAO rules.
-- For further reference, please read the STARDAO core mechanism documentation:  
-For full governance logic and funding mechanism, please refer to the STARDAO whitepaper:  
-[STARDAO Core Whitepaper (English)](STARDAO-Whitepaper.md)
 
+---
+
+### Governance and Funding Mechanism
+
+This project is a subproject under the STARDAO ecosystem. All funding mechanisms, governance principles, and value distribution strategies follow the core rules of STARDAO. For more details on the overall structure and core philosophy, please refer to the STARDAO Whitepaper:
+
+🔗 [STARDAO Whitepaper](https://github.com/STARDAOLEADER-OH/STARDAO/blob/main/STARDAO-Whitepaper.md)
 
 ---
 
