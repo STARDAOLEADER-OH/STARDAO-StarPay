@@ -1,3 +1,5 @@
+![StarPay Architecture](project_diagram.png)
+
 ✅ StarPay – XCB-Based Global Payment System
 
 🌐 Introduction
