@@ -87,7 +87,9 @@ All governance structures, funding logic, and participation rewards in this proj
 - Smart contracts manage all fund flows and point distributions with **full transparency and no manual interference**.
 - Sub-projects retain the freedom to design **modular internal structures**, such as task systems, evaluation boards, or technical teams—provided they do not conflict with the core STARDAO rules.
 - For further reference, please read the STARDAO core mechanism documentation:  
-  [STARDAO Core Governance Document](STARDAO-Whitepaper.md)
+For full governance logic and funding mechanism, please refer to the STARDAO whitepaper:  
+[STARDAO Core Whitepaper (English)](STARDAO-Whitepaper.md)
+
 
 ---
 
