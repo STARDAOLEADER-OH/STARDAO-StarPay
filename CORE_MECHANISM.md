@@ -93,11 +93,11 @@ Future developers can create plugins under Star DAO rules.
 
 ---
 
-## 📁 Files Reference
+[README.md](./README.md)  
+[XCB_Funding_Proposal.md](./XCB_Funding_Proposal.md)  
+[project_diagram.png](./project_diagram.png)  
+[CORE_MECHANISM.md](./CORE_MECHANISM.md)
 
-- `README.md: Project overview
-- `XCB_Funding_Proposal.md: Investment and budget
-- `project_diagram.png: Visual architecture
 
 ---
 
