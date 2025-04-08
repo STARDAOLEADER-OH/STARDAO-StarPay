@@ -1,3 +1,17 @@
+## 🛸 StarPay Comic Introduction
+
+To help you quickly understand the essence of StarPay, we created a lighthearted 4-panel comic featuring our three little alien friends as they journey across the galaxy.
+
+![StarPay Comic](./starpay_comic_intro.png)
+
+> 💬 "Why transfer money when you can move the data?"  
+> Welcome to the world of StarPay — smart, borderless, and built for the real world.
+
+StarPay uses a unique architecture where user balances migrate across national nodes instead of actual fund transfers. Powered by smart contracts and backed by XCB’s stable liquidity model, it's designed to make global micro-payments easy, legal, and seamless.
+
+📌 [Learn more about StarPay here](#)
+
+
 ✅ **StarPay – XCB-Based Global Payment System**
 
 ---
