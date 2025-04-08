@@ -2,7 +2,7 @@
 
 To help you quickly understand the essence of StarPay, we created a lighthearted 4-panel comic featuring our three little alien friends as they journey across the galaxy.
 
-![StarPay Comic](./starpay_comic_intro.png)
+![StarPay Comic](./starpay_comic_intro_en.png)
 
 > 💬 "Why transfer money when you can move the data?"  
 > Welcome to the world of StarPay — smart, borderless, and built for the real world.
